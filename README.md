@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey 👋
+
+I'm Rory, a Software Engineer based in London.
+
+I like to focus mostly on backend, infra and tooling projects with a sprinkle of Svelte and game dev here and there.
+
+[Check out some of my writing.](https://rornic.com/)
+
+- 🔭 I’m currently working on [findatechjob.io](https://findatechjob.io/jobs), [rustcraft](https://github.com/rornic/rustcraft) and [starling_exporter](https://github.com/rornic/starling_exporter).
+- 🌱 I’m currently learning [Bevy](https://bevyengine.org/).
 
 <!--
 **rornic/rornic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
