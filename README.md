@@ -1,8 +1,8 @@
-### Hey 👋
+### Hello
 
 I'm a Software Engineer based in London.
 
-I like to focus mostly on backend, infra and tooling projects with a sprinkle of Svelte and game dev here and there.
+I focus mostly on backend, infra and tooling projects with a sprinkle of Svelte and game dev here and there. Interested in building simple & reliable systems.
 
 Check out [my writing](https://rornic.dev/) or a [little jobs website](https://findatechjob.dev/) that I'm working on!
 
