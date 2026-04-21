@@ -4,6 +4,10 @@ I'm a Software Engineer based in London.
 
 I focus mostly on backend, infra and tooling projects with a sprinkle of Svelte and game dev here and there. Interested in building simple & reliable systems.
 
+Active projects:
+
+* [findatechjob.dev](https://findatechjob.dev)
+
 <!--
 **rornic/rornic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
