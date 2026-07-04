@@ -1,12 +1,15 @@
 ### Hello
 
-I'm a Software Engineer based in London.
+I'm a Senior Software Engineer based in London.
 
-I focus mostly on backend, infra and tooling projects with a sprinkle of Svelte and game dev here and there. Interested in building simple & reliable systems.
+Interested in building simple & reliable systems based on open-source software, and contributing where I can.
+
+Polyglot experienced in writing: Go, Rust, Java, Python, TypeScript, or any other language as needed.
 
 Active projects:
 
 * [findatechjob.dev](https://findatechjob.dev)
+* [Blog](https://rornic.dev)
 
 <!--
 **rornic/rornic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
